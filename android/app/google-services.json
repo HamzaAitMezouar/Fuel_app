@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796839138110",
+    "project_id": "fuel-2e885",
+    "storage_bucket": "fuel-2e885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796839138110:android:5609ee8a94665977b1926f",
+        "android_client_info": {
+          "package_name": "com.example.fuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796839138110-hbpnsqgjsijf0kghnb2errvhkjhl3sti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjn25CnwJYsxKEr-zmrVX8dNu9zxI_Mdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796839138110-hbpnsqgjsijf0kghnb2errvhkjhl3sti.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
